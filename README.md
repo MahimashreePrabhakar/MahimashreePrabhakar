@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MahimashreePrabhakar
 - 👀 I’m interested in embedded design, electrical design, painting and sketching 
 - 🌱 I’m currently learning VLSI RTL to GDS design 
-- 💞️ I’m looking to collaborate on website creation
+- 💞️ I’m looking to collaborate on any electronics circuit design projects 
 - 📫 How to reach me mailto: mahimashreeprabhakar@gmail.com
 
 <!---
